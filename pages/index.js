@@ -1,7 +1,6 @@
 //Write a code in index.js
 import React, { useState, useEffect } from 'react';
 const App = () => {
- nction App() {
   const [workDuration, setWorkDuration] = useState(25);
   const [breakDuration, setBreakDuration] = useState(5);
   const [flag , setFlag] =  useState(false);
